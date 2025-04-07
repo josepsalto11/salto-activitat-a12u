@@ -1,3 +1,44 @@
+
+# 🚀 Activitat: Crea un portfoli tècnic amb Markdown i GitHub
+
+## 🎯 Objectiu de l’activitat
+
+L'objectiu d’aquesta activitat és aprendre a documentar correctament un projecte tècnic utilitzant **formatació avançada amb Markdown**, i gestionar-lo amb **GitHub**. Aprendràs també a excloure fitxers innecessaris mitjançant `.gitignore`, i faràs servir elements visuals com imatges, taules i quotes per fer el teu portfoli més atractiu.
+
+Aquesta activitat simula una situació real: **crear un portfoli online d’un projecte personal o de classe** que pots ensenyar a un professor o futur ocupador.
+
+---
+
+## 🔧 Requisits previs
+
+Abans de començar, has de tenir:
+- Un compte de GitHub actiu.
+- Git i Git Bash instal·lats.
+- Coneixements bàsics de com crear, clonar i pujar repositoris.
+- Coneixements bàsics de Markdown.
+
+---
+
+## 📋 Passos detallats
+
+### 1. Crear un repositori a GitHub
+
+1. Entra a [https://github.com](https://github.com).
+2. Clica el botó **"New"** per crear un repositori nou.
+3. Posa com a nom: `portfoli-tecnic-markdown`.
+4. **No** marquis cap opció (ni README, ni .gitignore, ni llicència).
+5. Clica **"Create repository"**.
+
+---
+
+### 2. Clonar el repositori a l’ordinador
+
+Obre **Git Bash** i escriu:
+
+```bash
+cd /c/projectes
+git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
+cd portfoli-tecnic-markdown
 # 💼 Portfoli Tècnic
 
 ## 📸 Imatge escola ginebro
