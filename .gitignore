@@ -1,0 +1,10 @@
+# Fitxers de configuració de VS Code
+.vscode/
+
+# Fitxers temporals
+*.log
+*.tmp
+
+# Fitxers del sistema operatiu
+.DS_Store
+Thumbs.db
