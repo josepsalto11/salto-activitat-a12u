@@ -39,6 +39,7 @@ Obre **Git Bash** i escriu:
 cd /c/projectes
 git clone https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown.git
 cd portfoli-tecnic-markdown
+```
 # 💼 Portfoli Tècnic
 
 ## 📸 Imatge escola ginebro
