@@ -28,6 +28,7 @@ Abans de començar, has de tenir:
 3. Posa com a nom: `portfoli-tecnic-markdown`.
 4. **No** marquis cap opció (ni README, ni .gitignore, ni llicència).
 5. Clica **"Create repository"**.
+6. invita com a colaborador a josepsalto11
 
 ---
 
