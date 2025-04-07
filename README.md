@@ -1,12 +1,12 @@
 # 💼 Portfoli Tècnic
 
-## 📸 Imatge del projecte
+## 📸 Imatge escola ginebro
 
-![Captura del meu projecte](https://via.placeholder.com/600x300.png?text=Captura+del+projecte)
+![foto de ginebro](https://tse4.mm.bing.net/th?id=OIP.awJtDyu8RG4MeKa5t7VaXgAAAA&pid=Api&P=0&h=180)
 
 ## 🔗 Enllaços útils
 
-- [GitHub del projecte](https://github.com/<el-teu-usuari>/portfoli-tecnic-markdown)
+- [GitHub de la activitat](https://github.com/SMX-2023-2025/mp07-serveis-de-xarxa/blob/main/documents/activitats/a12u.md)
 - [Guia Markdown GitHub](https://guides.github.com/features/mastering-markdown/)
 
 ## 📘 Llista de definició
